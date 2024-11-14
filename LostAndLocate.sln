@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LostAndLocate", "LostAndLocate\LostAndLocate.csproj", "{18D61969-FCAC-4514-B83C-0E4E6282C2DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LostAndLocate.Test", "LostAndLocate.Test\LostAndLocate.Test.csproj", "{779371A3-FD23-4CB2-AF85-6CC5E6F8937E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18D61969-FCAC-4514-B83C-0E4E6282C2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D61969-FCAC-4514-B83C-0E4E6282C2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D61969-FCAC-4514-B83C-0E4E6282C2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D61969-FCAC-4514-B83C-0E4E6282C2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779371A3-FD23-4CB2-AF85-6CC5E6F8937E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779371A3-FD23-4CB2-AF85-6CC5E6F8937E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779371A3-FD23-4CB2-AF85-6CC5E6F8937E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779371A3-FD23-4CB2-AF85-6CC5E6F8937E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
